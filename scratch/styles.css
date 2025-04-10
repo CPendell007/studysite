@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(105, 132, 110);
+    color: rgb(6, 54, 27);
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: rgb(6, 50, 59);
+    background-color: antiquewhite;
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    border: 5px solid rgb(6, 54, 27);
+    padding: 5px;
+    height: 350px;
+    /* margin: auto;
+    display: block;  */
+}
+/* dot means that it is a nonexisting style */
+.rizz{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  rgb(8, 3, 55);
+    border: 5px dashed rgb(204, 221, 200);
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+/* .rizz:hover{
+    font-size: 250%;
+    color:cornflowerblue
+} */
+li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: antiquewhite;
+}
